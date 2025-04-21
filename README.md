@@ -9,7 +9,7 @@ Bu depo, **TurkStudentCo Veri Bilimi Bootcamp** kapsamında geliştirilen **SQL 
 Bu veritabanı, gerçek dünyada bir eğitim platformunun nasıl çalıştığını modellemeyi amaçlar:
 
 - Kullanıcılar sisteme kayıt olabilir ve eğitimlere katılabilir  
-- Eğitimler farklı kategorilere ayrılmıştır (Yapay Zeka, Blokzincir, Siber Güvenlik vb.)  
+- Eğitimler farklı kategorilere ayrılmıştır 
 - Kullanıcılar tamamladıkları eğitimler için sertifika alabilir  
 - Kullanıcılar blog gönderileri paylaşabilir ve profillerinde seviye atlayabilir  
 
