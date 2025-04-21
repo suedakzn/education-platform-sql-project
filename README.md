@@ -57,6 +57,13 @@ Bu proje aşağıdaki tüm gereklilikleri karşılamaktadır:
 
 ---
 
+## 🧪 Kullanım
+
+1. `education_platform_commented.sql` dosyasını PostgreSQL ortamında çalıştırın.
+2. Tüm tablolar ve ilişkiler veritabanınızda oluşturulacaktır.
+3. `er_diagram.png` dosyası üzerinden veritabanı şemasını inceleyebilirsiniz.
+
+---
 ## 📅 Teslimat Bilgisi
 
 Bu proje, **TurkStudentCo SQL Final Projesi** kapsamında teslim edilmiştir.
